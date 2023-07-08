@@ -52,9 +52,9 @@ Just `cd house` and run `pre_s9.py` and got the regression result.
 If our paper benefits to your research, please cite our paper using the bitex below:
 
     @inproceedings{zhang2023spatial,
-title={Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation},
-author={Zhang, Qianru and Huang, Chao and Xia, Lianghao and Wang, Zheng and Yiu, Siuming and Han, Ruihua},
-booktitle={Proceedings of the 40th International Conference on Machine Learning},
-pages={295--305},
-year={2023}
+    title={Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation},
+    author={Zhang, Qianru and Huang, Chao and Xia, Lianghao and Wang, Zheng and Yiu, Siuming and Han, Ruihua},
+    booktitle={Proceedings of the 40th International Conference on Machine Learning},
+    pages={295--305},
+    year={2023}
 }
