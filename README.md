@@ -3,6 +3,8 @@
 # Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation #
 This is the implementation of Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation (ICML'23) in the following paper:
 
+
+## Please also refer to this github link https://github.com/HKUDS/GraphST ##
 ## Requirements ##
 Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
 
